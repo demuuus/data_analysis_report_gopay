@@ -1,2 +1,5 @@
 # data_analysis_report_gopay
 Performing data cleaning, feature engineering, and exploratory data analysis using Python to generate business insights and create a professional report presentation.
+
+
+# [!] DISCLAIMER: The used data does not represent the real GoPay dataset
